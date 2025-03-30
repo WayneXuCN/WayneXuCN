@@ -10,7 +10,7 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 162 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 19 repositories with a total of 163 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
@@ -79,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 29 Mar 2025, 09:01:10 (Asia/Shanghai).
+> Last updated: 30 Mar 2025, 09:06:58 (Asia/Shanghai).

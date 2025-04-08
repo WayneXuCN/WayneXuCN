@@ -10,7 +10,7 @@
 
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 14 repositories with a total of 171 commits.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 14 repositories with a total of 181 commits.
 - 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech Stack
@@ -62,7 +62,7 @@ Check out my recent posts on my personal homepage:
 **[🗼 Rss feed from Wenjie Xu](https://waynexucn.github.io//)**
 * [Mac OS 实用配置记录](https://waynexucn.github.io//blog/2025/Mac%E5%AE%9E%E7%94%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/)
   * *Published on 17 Feb 2025*
-* [年前重访旧居](https://waynexucn.github.io//blog/2025/%E9%9A%8F%E7%AC%94%E5%B9%B4%E5%89%8D%E9%87%8D%E8%AE%BF%E6%97%A7%E5%B1%85/)
+* [旧居记忆](https://waynexucn.github.io//blog/2025/%E9%9A%8F%E7%AC%94%E5%B9%B4%E5%89%8D%E9%87%8D%E8%AE%BF%E6%97%A7%E5%B1%85/)
   * *Published on 28 Jan 2025*
 * [2025 年的第一天，说点什么吧](https://waynexucn.github.io//blog/2025/%E9%9A%8F%E7%AC%9425%E5%B2%81%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/)
   * *Published on 2 Jan 2025*
@@ -79,4 +79,4 @@ Feel free to reach out at:
 ----
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)
-> Last updated: 7 Apr 2025, 09:04:14 (Asia/Shanghai).
+> Last updated: 8 Apr 2025, 09:02:29 (Asia/Shanghai).

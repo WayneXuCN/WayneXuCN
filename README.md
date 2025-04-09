@@ -20,12 +20,10 @@
 
 ## 📝 About me
 
-- 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/)
-- 🔍 Focused on **Risk Management** and **Data Analytics**, exploring innovative strategies for risk assessment
-- 🌱 Currently learning **Deep Learning** and **Complex Networks** for risk prediction models
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I've actively contributed to 14 repositories with a total of 189 commits
-- 💡 Programming Enthusiast: I enjoy working with **Python**, **Julia** and **JavaScript/TypeScript**
-
+- 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
+- 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 14 repositories with a total of 171 commits.
+- 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech stack
 
@@ -95,6 +93,6 @@
 <div align="right">
   
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 9 Apr 2025, 14:03:29 (Asia/Shanghai)
+> Last updated: 9 Apr 2025, 14:07:12 (Asia/Shanghai)
   
 </div>

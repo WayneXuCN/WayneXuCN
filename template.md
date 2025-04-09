@@ -1,5 +1,5 @@
 <!-- 增强视觉吸引力的动态标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Wenjie+Xu!;PhD+Candidate+in+Risk+Management;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Wenjie+Xu!;PhD+Candidate+at+CASISD;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title="Hi">
 

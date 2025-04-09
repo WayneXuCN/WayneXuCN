@@ -1,5 +1,4 @@
-# 名称：年度贡献日历
-# 功能：生成展示整年贡献活动的日历图表
+# 生成展示整年贡献活动的日历图表
 name: Metrics Calendar
 
 # 触发条件：当 Metrics Base 工作流完成时或手动触发
@@ -13,7 +12,6 @@ on:
 jobs:
   generate-calendar:
     runs-on: ubuntu-latest
-    # 如果是从README更新触发的工作流则跳过
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: production

@@ -12,7 +12,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/waynexucn?style=social)](https://github.com/waynexucn)
   [![Website](https://img.shields.io/badge/Website-waynexucn.github.io-1E90FF?style=flat-square&logoColor=white)](https://waynexucn.github.io)
   [![Email](https://img.shields.io/badge/Email-wenjie.xu.cn@outlook.com-1E90FF?style=flat-square&logoColor=white)](mailto:wenjie.xu.cn@outlook.com)
-  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">g
+  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">
   
 </div>
 

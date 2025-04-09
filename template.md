@@ -1,5 +1,5 @@
 <!-- 增强视觉吸引力的动态标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+👋+I'm+Wayne+(Wenjie)+Xu;PhD+Candidate+in+Risk+Management;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Wenjie+Xu!;PhD+Candidate+in+Risk+Management;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title="Hi">
 
@@ -12,7 +12,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/waynexucn?style=social)](https://github.com/waynexucn)
   [![Website](https://img.shields.io/badge/Website-waynexucn.github.io-1E90FF?style=flat-square&logoColor=white)](https://waynexucn.github.io)
   [![Email](https://img.shields.io/badge/Email-wenjie.xu.cn@outlook.com-1E90FF?style=flat-square&logoColor=white)](mailto:wenjie.xu.cn@outlook.com)
-  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">
+  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">g
   
 </div>
 

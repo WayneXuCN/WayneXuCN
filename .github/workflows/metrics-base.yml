@@ -5,12 +5,17 @@ name: Metrics Base
 # 触发条件
 on:
   schedule: [{ cron: "0 0 * * *" }]  # 每天自动运行
-  push: { branches: ["master", "main"] }
+  push: 
+    branches: ["master", "main"]
+    paths-ignore:
+      - 'README.md'  # 忽略README.md的更改
   workflow_dispatch:  # 允许手动触发
 
 jobs:
   generate-base-metrics:
     runs-on: ubuntu-latest
+    # 如果提交信息包含[skip ci]则跳过此工作流
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     environment:
       name: production
     permissions:

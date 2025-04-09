@@ -20,12 +20,10 @@
 
 ## 📝 About me
 
-- 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/)
-- 🔍 Focused on **Risk Management** and **Data Analytics**, exploring innovative strategies for risk assessment
-- 🌱 Currently learning **Deep Learning** and **Complex Networks** for risk prediction models
-- 📅 I joined GitHub on {{ f.date(REGISTRATION_DATE, {date:true}) }}, and since then, I've actively contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} repositories with a total of {{ COMMITS }} commits
-- 💡 Programming Enthusiast: I enjoy working with **Python**, **Julia** and **JavaScript/TypeScript**
-
+- 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
+- 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 14 repositories with a total of 171 commits.
+- 💡 Programming Enthusiast: I enjoy working with **Python** , **Julia** and **JavaScript/TypeScript**.
 
 ## 🛠️ Tech stack
 

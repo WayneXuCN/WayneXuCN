@@ -12,7 +12,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/waynexucn?style=social)](https://github.com/waynexucn)
   [![Website](https://img.shields.io/badge/Website-waynexucn.github.io-1E90FF?style=flat-square&logoColor=white)](https://waynexucn.github.io)
   [![Email](https://img.shields.io/badge/Email-wenjie.xu.cn@outlook.com-1E90FF?style=flat-square&logoColor=white)](mailto:wenjie.xu.cn@outlook.com)
-  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">g
+  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">
   
 </div>
 
@@ -23,7 +23,7 @@
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/)
 - 🔍 Focused on **Risk Management** and **Data Analytics**, exploring innovative strategies for risk assessment
 - 🌱 Currently learning **Deep Learning** and **Complex Networks** for risk prediction models
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I've actively contributed to 14 repositories with a total of 187 commits
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I've actively contributed to 14 repositories with a total of 188 commits
 - 💡 Programming Enthusiast: I enjoy working with **Python**, **Julia** and **JavaScript/TypeScript**
 
 
@@ -95,6 +95,6 @@
 <div align="right">
   
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 9 Apr 2025, 13:43:08 (Asia/Shanghai)
+> Last updated: 9 Apr 2025, 13:50:23 (Asia/Shanghai)
   
 </div>

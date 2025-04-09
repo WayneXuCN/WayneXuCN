@@ -1,5 +1,5 @@
 <!-- 增强视觉吸引力的动态标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Wenjie+Xu!;PhD+Candidate+in+Risk+Management;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Wenjie+Xu!;PhD+Candidate+at+CASISD;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title="Hi">
 
@@ -23,7 +23,7 @@
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/)
 - 🔍 Focused on **Risk Management** and **Data Analytics**, exploring innovative strategies for risk assessment
 - 🌱 Currently learning **Deep Learning** and **Complex Networks** for risk prediction models
-- 📅 I joined GitHub on 15 Feb 2020, and since then, I've actively contributed to 14 repositories with a total of 188 commits
+- 📅 I joined GitHub on 15 Feb 2020, and since then, I've actively contributed to 14 repositories with a total of 189 commits
 - 💡 Programming Enthusiast: I enjoy working with **Python**, **Julia** and **JavaScript/TypeScript**
 
 
@@ -95,6 +95,6 @@
 <div align="right">
   
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 9 Apr 2025, 13:50:23 (Asia/Shanghai)
+> Last updated: 9 Apr 2025, 14:03:29 (Asia/Shanghai)
   
 </div>

@@ -40,10 +40,11 @@ jobs:
           config_output: markdown
           user: waynexucn
           config_timezone: Asia/Shanghai
+    
           
           # 基础信息展示
           base: header, metadata, activity, community
-          repositories_skipped: waynexucn.github.io, waynexucn
+          repositories_skipped:  waynexucn/waynexucn.github.io, waynexucn/waynexucn
 
           # 活动统计插件
           plugin_activity: yes
@@ -54,7 +55,6 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, fluent, gnuplot
-          plugin_languages_skipped: waynexucn.github.io, waynexucn
 
           # RSS 插件
           plugin_rss: yes

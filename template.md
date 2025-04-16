@@ -52,12 +52,9 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waynexucn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waynexucn&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</div>
+![metrics.base](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/metrics.base.svg)
+
+![languages](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/languages.svg)
 
 ## 📊 Coding habits and activity
 

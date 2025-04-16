@@ -54,7 +54,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, fluent, gnuplot
+          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, fluent, gnuplot
 
           # RSS 插件
           plugin_rss: yes

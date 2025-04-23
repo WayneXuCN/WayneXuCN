@@ -4,7 +4,7 @@ name: Metrics Base
 
 # 触发条件
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # 每天自动运行
+  schedule: [{ cron: "0 0 */2 * *" }]  # 每两天自动运行
   push: 
     branches: ["master", "main"]
     paths-ignore:

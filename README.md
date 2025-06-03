@@ -79,10 +79,10 @@
 **[🗼 Rss feed from Wenjie Xu](https://waynexucn.github.io//)**
 * [Mac OS 实用配置记录](https://waynexucn.github.io//blog/2025/Mac%E5%AE%9E%E7%94%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/)
   * *Published on 17 Feb 2025*
+* [低性能云服务器实用配置记录](https://waynexucn.github.io//blog/2025/%E4%BD%8E%E9%85%8D%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/)
+  * *Published on 13 Feb 2025*
 * [旧居记忆](https://waynexucn.github.io//blog/2025/%E9%9A%8F%E7%AC%94%E5%B9%B4%E5%89%8D%E9%87%8D%E8%AE%BF%E6%97%A7%E5%B1%85/)
   * *Published on 28 Jan 2025*
-* [2025 年的第一天，说点什么吧](https://waynexucn.github.io//blog/2025/%E9%9A%8F%E7%AC%9425%E5%B2%81%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/)
-  * *Published on 2 Jan 2025*
 
 
 ---
@@ -90,6 +90,6 @@
 <div align="right">
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 1 Jun 2025, 09:56:45 (Asia/Shanghai)
+> Last updated: 3 Jun 2025, 09:42:20 (Asia/Shanghai)
 
 </div>

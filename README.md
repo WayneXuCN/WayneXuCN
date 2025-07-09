@@ -77,12 +77,12 @@
 ## 📝 Latest blog posts
 
 **[🗼 Rss feed from Wenjie Xu](https://waynexucn.github.io//)**
+* [[object Object]](https://waynexucn.github.io//blog/2025/2024-07-15-Python%E9%A1%B9%E7%9B%AE%E4%B8%AD%E9%AB%98%E6%95%88%E7%AE%A1%E7%90%86%E8%B7%AF%E5%BE%84%E7%9A%84%E8%8C%83%E5%BC%8F/)
+  * *Published on 8 Jul 2025*
 * [macOS System Configuration Notes](https://waynexucn.github.io//blog/2025/Mac%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/)
   * *Published on 17 Feb 2025*
 * [Practical Configuration Notes for Low-Performance Cloud Servers](https://waynexucn.github.io//blog/2025/%E4%BD%8E%E9%85%8D%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/)
   * *Published on 13 Feb 2025*
-* [Essay: Memories of the Old Home](https://waynexucn.github.io//blog/2025/%E9%9A%8F%E7%AC%94%E5%B9%B4%E5%89%8D%E9%87%8D%E8%AE%BF%E6%97%A7%E5%B1%85/)
-  * *Published on 28 Jan 2025*
 
 
 ---
@@ -90,6 +90,6 @@
 <div align="right">
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 7 Jul 2025, 09:49:19 (Asia/Shanghai)
+> Last updated: 9 Jul 2025, 09:45:40 (Asia/Shanghai)
 
 </div>

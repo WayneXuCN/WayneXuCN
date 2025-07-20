@@ -7,15 +7,6 @@
   <em>Collaborating with diverse people is something I truly enjoy. <br> If you want to <b><a href="mailto:wenjie.xu.cn@outlook.com">contact me</a></b>, I'll be happy to connect! You can follow me to discover something exciting.</em>
 </p>
 
-<div align="center">
-
-  [![GitHub followers](https://img.shields.io/github/followers/waynexucn?style=social)](https://github.com/waynexucn)
-  [![Website](https://img.shields.io/badge/Website-waynexucn.github.io-1E90FF?style=flat-square&logoColor=white)](https://waynexucn.github.io)
-  [![Email](https://img.shields.io/badge/Email-wenjie.xu.cn@outlook.com-1E90FF?style=flat-square&logoColor=white)](mailto:wenjie.xu.cn@outlook.com)
-  <img src="https://komarev.com/ghpvc/?username=waynexucn&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile Views Count">
-
-</div>
-
 ---
 
 ## 📝 About me
@@ -23,7 +14,7 @@
 - 🎓 **PhD Candidate** in Management Science and Engineering at [CASISD](http://www.casisd.cn/).
 - 🔍 Focused on **Risk Management**, exploring innovative strategies for risk assessment and management.
 - 📅 I joined GitHub on 15 Feb 2020, and since then, I’ve actively contributed to 14 repositories with a total of 171 commits.
-- 💡 Programming Enthusiast: I enjoy working with **Python**, **Julia** and **JavaScript/TypeScript**.
+- 💡 Programming Enthusiast: **Python**, **Julia**, **JavaScript/TypeScript** and **Typst**.
 
 ## 🛠️ Tech stack
 

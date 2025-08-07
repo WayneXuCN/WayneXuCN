@@ -34,11 +34,9 @@
 
 ![metrics.base](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/metrics.base.svg)
 
-![languages](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneXuCN&layout=compact&hide=javascript,html,scss,css,ruby,shell,Tex,Powershell,)](https://github.com/WayneXuCN/WayneXuCN)
 
 ## 📊 Coding Activity
-
-![Recent activity](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/activity.svg)
 
 ![Isometric year calendar](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/metrics.plugin.isocalendar.fullyear.svg)
 
@@ -58,6 +56,6 @@
 <div align="right">
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 7 Aug 2025, 09:53:19 (Asia/Shanghai)
+> Last updated: 7 Aug 2025, 11:33:18 (Asia/Shanghai)
 
 </div>

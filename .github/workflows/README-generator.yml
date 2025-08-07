@@ -1,0 +1,86 @@
+# 名称：README 生成器
+# 功能：根据模板生成个人资料的 README.md 文件
+# 注意：此工作流在其他工作流完成后最后运行
+name: README Generator
+
+# 触发条件：当 Metrics Calendar 工作流完成时或手动触发
+on:
+  workflow_run:
+    workflows: ["Metrics Calendar"] # 依赖于 Metrics Calendar 工作流
+    types:
+      - completed
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write # 需要写权限来更新 README
+    steps:
+      # 确保所有图表资源都已准备好
+      - name: Wait a moment for assets to be available
+        run: sleep 10
+
+      # 检出仓库代码以实现提交信息自定义
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 获取完整历史记录以确保能正确合并
+
+      - name: Generate README
+        uses: lowlighter/metrics@v3.20
+        with:
+          # 基础配置
+          template: markdown
+          filename: README.md
+          markdown_cache: .cache
+          markdown: https://raw.githubusercontent.com/waynexucn/waynexucn/main/template.md
+          config_output: markdown
+          user: waynexucn
+          config_timezone: Asia/Shanghai
+
+          # 基础信息展示
+          base: header, metadata, activity, community
+          repositories_skipped: waynexucn/waynexucn.github.io, waynexucn/waynexucn
+
+          # 活动统计插件
+          plugin_activity: yes
+
+          # 语言统计插件
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css, scss, tex, less, dockerfile, makefile, qmake, lex, cgi
+
+          # RSS 插件
+          plugin_rss: yes
+          plugin_rss_source: https://waynexucn.github.io/feed.xml
+          plugin_rss_limit: 3
+
+          # 习惯统计插件
+          plugin_habits: yes
+          plugin_habits_from: 500
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # 访问令牌
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # 添加提交信息以避免触发新的工作流
+      - name: Commit and Push README if changed
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update README.md [skip ci]" 
+            # 先拉取最新更改，然后再推送
+            git pull --rebase origin main
+            git push
+          fi

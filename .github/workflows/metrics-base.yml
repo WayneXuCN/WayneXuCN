@@ -1,0 +1,32 @@
+# 名称：基础统计图表
+# 功能：生成展示基本GitHub统计数据的SVG图表
+name: Metrics Base
+
+# 触发条件
+on:
+  schedule: [{ cron: "0 0 */2 * *" }]  # 每两天自动运行
+  push: 
+    branches: ["master", "main"]
+    paths-ignore:
+      - 'README.md'  # 忽略README.md的更改
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  generate-base-metrics:
+    runs-on: ubuntu-latest
+    # 如果提交信息包含[skip ci]则跳过此工作流
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: Generate base metrics
+        uses: lowlighter/metrics@v3.20
+        with:
+          filename: .cache/metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          user: waynexucn
+          repositories_skipped: waynexucn.github.io, waynexucn

@@ -1,0 +1,29 @@
+# 生成展示整年贡献活动的日历图表
+name: Metrics Calendar
+
+# 触发条件：当 Metrics Base 工作流完成时或手动触发
+on:
+  workflow_run:
+    workflows: ["Metrics Base"]  # 依赖于 Metrics Base 工作流
+    types:
+      - completed
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  generate-calendar:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    environment:
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - name: Generate isocalendar chart (full year)
+        uses: lowlighter/metrics@v3.20
+        with:
+          filename: .cache/metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          user: waynexucn

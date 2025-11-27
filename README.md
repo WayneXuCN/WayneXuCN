@@ -42,20 +42,14 @@
 
 ## 📝 Latest Posts
 
-**[🗼 Rss feed from Wenjie Xu](https://lab.wenjiexu.site//)**
-* [macOS 系统配置记录](https://lab.wenjiexu.site//blog/2025/Mac%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/)
-  * *Published on 17 Feb 2025*
-* [低性能云服务器实用配置记录](https://lab.wenjiexu.site//blog/2025/%E4%BD%8E%E9%85%8D%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/)
-  * *Published on 13 Feb 2025*
-* [「随笔」旧居记忆](https://lab.wenjiexu.site//blog/2025/%E9%9A%8F%E7%AC%94%E5%B9%B4%E5%89%8D%E9%87%8D%E8%AE%BF%E6%97%A7%E5%B1%85/)
-  * *Published on 28 Jan 2025*
-
+**[🗼 Rss feed from ]()**
+An error occured
 
 ---
 
 <div align="right">
 
 > Generated with [lowlighter/metrics@3.20.0](https://github.com/lowlighter/metrics)  
-> Last updated: 25 Nov 2025, 09:41:19 (Asia/Shanghai)
+> Last updated: 27 Nov 2025, 09:39:30 (Asia/Shanghai)
 
 </div>

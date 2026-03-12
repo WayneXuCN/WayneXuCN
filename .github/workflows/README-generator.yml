@@ -36,14 +36,14 @@ jobs:
           template: markdown
           filename: README.md
           markdown_cache: .cache
-          markdown: https://raw.githubusercontent.com/waynexucn/waynexucn/main/template.md
+          markdown: https://raw.githubusercontent.com/Vncntvx/Vncntvx/main/template.md
           config_output: markdown
-          user: waynexucn
+          user: vncntvx
           config_timezone: Asia/Shanghai
 
           # 基础信息展示
           base: header, metadata, activity, community
-          repositories_skipped: waynexucn/waynexucn.github.io, waynexucn/waynexucn
+          repositories_skipped: vncntvx/vncntvx.github.io, vncntvx/vncntvx
 
           # 活动统计插件
           plugin_activity: yes
@@ -57,7 +57,7 @@ jobs:
 
           # RSS 插件
           plugin_rss: yes
-          plugin_rss_source: https://waynexucn.github.io/feed.xml
+          plugin_rss_source: https://vncntvx.github.io/feed.xml
           plugin_rss_limit: 3
 
           # 习惯统计插件

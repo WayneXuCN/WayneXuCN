@@ -1,5 +1,5 @@
 <!-- 增强视觉吸引力的动态标题 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Wenjie+Xu!;PhD+Candidate+at+CASISD;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+I'm+Vincent+Xu!;PhD+Candidate+at+CASISD;Welcome+to+my+GitHub+Space!&size=28&width=600&pause=1000&color=1E90FF&center=false&vCenter=true&background=FFFFFF00)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" title="Hi">
 
@@ -32,13 +32,13 @@
 
 ## 📈 GitHub Stats
 
-![metrics.base](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/metrics.base.svg)
+![metrics.base](https://raw.githubusercontent.com/Vncntvx/Vncntvx/main/.cache/metrics.base.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneXuCN&layout=compact&hide=javascript,html,scss,css,ruby,shell,Tex,Powershell,)](https://github.com/WayneXuCN/WayneXuCN)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vncntvx&layout=compact&hide=javascript,html,scss,css,ruby,shell,Tex,Powershell,)](https://github.com/Vncntvx/Vncntvx)
 
 ## 📊 Coding Activity
 
-![Isometric year calendar](https://raw.githubusercontent.com/waynexucn/waynexucn/main/.cache/metrics.plugin.isocalendar.fullyear.svg)
+![Isometric year calendar](https://raw.githubusercontent.com/Vncntvx/Vncntvx/main/.cache/metrics.plugin.isocalendar.fullyear.svg)
 
 ## 📝 Latest Posts
 

@@ -28,5 +28,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          user: waynexucn
-          repositories_skipped: waynexucn.github.io, waynexucn
+          user: vncntvx
+          repositories_skipped: vncntvx.github.io, vncntvx
